@@ -1,14 +1,16 @@
 {
-  "articles": [
+  "article": [
     {
       "id": 1,
       "title": "Example Article",
-      "content": "This is an example."
+      "content": "This is first step."
     },
     {
-      "id": 2,
-      "title": "Second Article",
-      "content": "This is also an example."
+      "id": 1,
+      "title": "second Article",
+      "content": "This is a second step."
+
     }
   ]
 }
+
